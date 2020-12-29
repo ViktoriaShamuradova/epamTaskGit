@@ -1,0 +1,21 @@
+From 263a6a9a1ae97be2e3385f404ef925a4209f09d5 Mon Sep 17 00:00:00 2001
+From: Viktoria Shamuradova <viktoriashamuradova@gmail.com>
+Date: Tue, 29 Dec 2020 20:48:35 +0300
+Subject: [PATCH] create file
+
+---
+ 1.txt | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 1.txt
+
+diff --git a/1.txt b/1.txt
+new file mode 100644
+index 0000000..1191247
+--- /dev/null
++++ b/1.txt
+@@ -0,0 +1,2 @@
++1
++2
+-- 
+2.26.2.windows.1
+
